@@ -1,0 +1,9 @@
+Package: com.dovidp.yttruetime
+Name: YTTrueTime
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Displays the video timestamp adjusted by playback rate.
+Maintainer: dovidp
+Author: dovidp
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
